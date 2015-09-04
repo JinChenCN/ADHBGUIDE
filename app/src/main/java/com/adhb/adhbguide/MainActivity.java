@@ -12,7 +12,7 @@ import android.widget.EditText;
 
 public class MainActivity extends ActionBarActivity {
     public final static String PIN = "123";
-    public final static String PIN_ERROR = "The inout pin is not authorized. Please try again.";
+    public final static String PIN_ERROR = "The input pin is not authorized. Please try again.";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
