@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ADHB GUIDE</string>
+
+    <string name="textview">To Do : First Landing Page (Declaration and Pin input here)</string>
+    <string name="edit_message">Enter your pin here</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Submit</string>
+    <string name="title_activity_display_home_page">DisplayHomePageActivity</string>
+
+    <string name="title_section1">Sepsis</string>
+    <string name="title_section2">Respiratory tract</string>
+    <string name="title_section3">Ear, nose and throat</string>
+    <string name="title_section4">Ophthalmology</string>
+    <string name="title_section5">CNS</string>
+    <string name="title_section6">Cardiothoracic</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="more_action">More action</string>
+</resources>
